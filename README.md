@@ -4,5 +4,5 @@ npm i
 
 Run:
 
-node "script name"
+node "script name" "login" "password" 
 
