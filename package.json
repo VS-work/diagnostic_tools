@@ -1,0 +1,13 @@
+{
+  "name": "mikronode",
+  "description": "Mikrotik API implemented in Node",
+  "version": "2.0.0",
+  "license": "MIT",
+  "repository": "git://github.com/trakkasure/mikronode",
+
+
+  "dependencies": {
+    "mikronode": "2.0.0"
+  }
+}
+
